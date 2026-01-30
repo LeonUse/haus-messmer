@@ -1,0 +1,58 @@
+{
+  "imprint": {
+    "title": "Impressum",
+    "subtitle": "Angaben gemäß § 5 TMG",
+    "operator": {
+      "title": "Betreiber",
+      "name": "Haus Meßmer",
+      "address": "Ludwig-Gerer-Straße 46",
+      "city": "78260 Tengen",
+      "country": "Deutschland"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "phone": "Telefon",
+      "email": "E-Mail"
+    },
+    "responsible": {
+      "title": "Verantwortlich für den Inhalt",
+      "placeholder": "[Bitte Namen des Verantwortlichen eintragen]"
+    },
+    "disclaimer": {
+      "title": "Haftungsausschluss",
+      "content": {
+        "title": "Haftung für Inhalte",
+        "text": "Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen."
+      },
+      "links": {
+        "title": "Haftung für Links",
+        "text": "Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "subtitle": "Informationen zur Verarbeitung Ihrer Daten",
+    "intro": {
+      "title": "Datenschutz",
+      "text": "Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003)."
+    },
+    "collection": {
+      "title": "Datenerfassung",
+      "text": "Die meisten Daten werden erhoben, weil Sie uns diese mitteilen. Das können z.B. Daten sein, die Sie in ein Kontaktformular eingeben."
+    },
+    "usage": {
+      "title": "Verwendung der Daten",
+      "text": "Wir verwenden Ihre Daten ausschließlich zur Bearbeitung Ihrer Anfragen und zur Bereitstellung unserer Dienstleistungen."
+    },
+    "rights": {
+      "title": "Ihre Rechte",
+      "text": "Sie haben jederzeit das Recht auf Auskunft über Ihre gespeicherten Daten, deren Herkunft und Empfänger sowie den Zweck der Datenverarbeitung. Sie haben außerdem ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten."
+    },
+    "contact": {
+      "title": "Kontakt bei Datenschutzfragen",
+      "text": "Bei Fragen zum Datenschutz können Sie sich jederzeit an uns wenden."
+    },
+    "placeholder": "[WICHTIG: Diese Datenschutzerklärung ist ein Platzhalter. Bitte lassen Sie eine rechtskonforme Datenschutzerklärung von einem Fachanwalt erstellen!]"
+  }
+}

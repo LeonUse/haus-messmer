@@ -1,0 +1,22 @@
+{
+  "contact": {
+    "title": "Kontaktformular",
+    "success": "Ihre Nachricht wurde erfolgreich gesendet!",
+    "error": "Beim Senden ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+  },
+  "validation": {
+    "required": "Dieses Feld ist erforderlich",
+    "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "phone": "Bitte geben Sie eine gültige Telefonnummer ein",
+    "minLength": "Mindestens {{count}} Zeichen erforderlich",
+    "maxLength": "Maximal {{count}} Zeichen erlaubt"
+  },
+  "placeholders": {
+    "name": "Ihr Name",
+    "email": "ihre.email@beispiel.de",
+    "phone": "+49 123 456789",
+    "message": "Ihre Nachricht an uns...",
+    "date": "TT.MM.JJJJ",
+    "time": "HH:MM"
+  }
+}

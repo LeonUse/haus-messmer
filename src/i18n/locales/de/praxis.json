@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "title": "Naturheilpraxis Haus Meßmer",
+    "subtitle": "Ganzheitliche Gesundheit und natürliche Heilung",
+    "cta": "Behandlungen entdecken"
+  },
+  "intro": {
+    "title": "Willkommen in unserer Naturheilpraxis",
+    "description": "In unserer Praxis verbinden wir moderne Diagnosemethoden mit natürlichen Heilverfahren. Unser Ziel ist es, Ihre Gesundheit ganzheitlich zu fördern und Ihnen Raum für Erholung zu bieten. Entdecken Sie unsere Leistungen und lassen Sie sich gerne individuell beraten."
+  },
+  "services": {
+    "title": "Unsere Behandlungen",
+    "subtitle": "Individuelle Therapien für Ihre Gesundheit",
+    "colonHydro": {
+      "title": "Colon-Hydro-Therapie",
+      "short": "Die Colon-Hydro-Therapie ist eine Form der Darmspülung. Dabei wird der Dickdarm mithilfe eines speziell dafür entwickelten Geräts mit Wasser gespült. Dies erfolgt mit dem Ziel, den Darm zu reinigen und die Darmtätigkeit zu unterstützen.",
+      "full": "Die Colon-Hydro-Therapie ist eine sanfte Methode zur Darmreinigung. Mit einem speziell entwickelten Gerät wird der Dickdarm behutsam mit warmem Wasser gespült. Ziel ist es, Ablagerungen zu lösen, die Darmtätigkeit anzuregen und das Wohlbefinden zu steigern.",
+      "benefits": "Unterstützung der Darmgesundheit • Förderung der Verdauung • Steigerung des Wohlbefindens",
+      "process": "Die Behandlung erfolgt in entspannter Atmosphäre und dauert etwa 45-60 Minuten."
+    },
+    "fasting": {
+      "title": "Fastenkurse",
+      "short": "Mehrmals im Jahr bieten wir 4x4 Fastenkurse an: An 4 gemeinsamen Abenden vermitteln wir Ihnen Wissen rund um das Thema Fasten. Der Kurs wird ergänzt durch frisch gepresste Säfte, Suppen sowie begleitende Nahrungsergänzungsmittel.",
+      "full": "Unsere 4x4 Fastenkurse finden mehrmals jährlich statt und bieten Ihnen eine strukturierte Begleitung beim Fasten. An vier gemeinsamen Abenden erhalten Sie fundiertes Wissen über Fastenmethoden, Ernährung und Gesundheit. Inklusive sind frisch gepresste Säfte, nährstoffreiche Suppen und ausgewählte Nahrungsergänzungsmittel.",
+      "benefits": "Begleitetes Fasten • Wissensvermittlung • Gemeinschaftserlebnis • Hochwertige Säfte und Suppen",
+      "process": "4 Abendtermine mit Theorie und Praxis, inklusive Fastenverpflegung."
+    },
+    "vegaCheck": {
+      "title": "VegaCheck",
+      "short": "Der VegaCheck ist ein Verfahren aus der Komplementärmedizin. Hierbei werden schmerzfreie Reize auf bestimmte Körperregionen ausgeübt und die darauffolgenden Reaktionen des Körpers erfasst. Anwender nutzen den VegaCheck, um Hinweise auf energetische Regulationsstörungen zu erhalten.",
+      "full": "Der VegaCheck ist ein bioenergetisches Testverfahren aus der Komplementärmedizin. Durch schmerzfreie Reize an bestimmten Körperpunkten werden die Reaktionen des Körpers gemessen. Dies kann Hinweise auf energetische Ungleichgewichte und Regulationsstörungen geben.",
+      "benefits": "Schmerzfreie Untersuchung • Ganzheitliche Betrachtung • Individuelle Analyse",
+      "process": "Die Messung dauert etwa 30-45 Minuten und erfolgt völlig schmerzfrei."
+    },
+    "infusion": {
+      "title": "Infusionstherapie",
+      "short": "Bei der Infusionstherapie werden Flüssigkeiten wie Elektrolyte oder Nährstoffe intravenös (über die Vene) verabreicht. Diese Anwendungen werden dabei individuell und nach Bedarf zusammengestellt.",
+      "full": "Die Infusionstherapie ermöglicht die direkte Zufuhr von Vitaminen, Mineralstoffen und anderen Nährstoffen über die Vene. Jede Infusion wird individuell auf Ihre Bedürfnisse abgestimmt und kann bei verschiedenen Beschwerden unterstützend wirken.",
+      "benefits": "Individuelle Zusammenstellung • Direkte Nährstoffzufuhr • Schnelle Wirkung",
+      "process": "Die Infusion dauert je nach Zusammensetzung 30-60 Minuten."
+    },
+    "bioresonance": {
+      "title": "Bioresonanz",
+      "short": "Bei der Bioresonanztherapie sollen mithilfe von Elektroden körpereigene Schwingungen erfasst und reguliert werden. Es handelt sich hierbei um eine Behandlungsform der Komplementärmedizin, die schulmedizinisch nicht anerkannt ist. Es wird von Anwendern zur Unterstützung der Selbstheilungskräfte genutzt.",
+      "full": "Die Bioresonanztherapie arbeitet mit körpereigenen Schwingungen. Über Elektroden werden diese erfasst und können therapeutisch beeinflusst werden. Ziel ist die Aktivierung der Selbstheilungskräfte und die Harmonisierung energetischer Prozesse im Körper.",
+      "benefits": "Sanfte Methode • Aktivierung der Selbstheilung • Ganzheitlicher Ansatz",
+      "process": "Eine Sitzung dauert etwa 45-60 Minuten und verläuft völlig schmerzfrei."
+    },
+    "lab": {
+      "title": "Labordiagnostik",
+      "short": "Unsere Naturheilpraxis arbeitet mit einem externen Labor zusammen, um fundierte Blutbilder und Laboranalysen erstellen zu lassen.",
+      "full": "Für eine präzise Diagnostik arbeiten wir mit einem spezialisierten Labor zusammen. Wir bieten umfassende Blutuntersuchungen und Laboranalysen an, die eine fundierte Grundlage für die weitere Behandlung bilden.",
+      "benefits": "Präzise Diagnostik • Umfassende Analysen • Fundierte Behandlungsgrundlage",
+      "process": "Blutentnahme in der Praxis, Auswertung durch Partnerlabor, ausführliche Besprechung der Ergebnisse."
+    },
+    "therapy": {
+      "title": "Gesprächstherapie",
+      "short": "In der Gesprächstherapie schaffen wir gemeinsam einen geschützten Raum, in dem Ihre Gedanken und Gefühle wertfrei wahrgenommen werden. Ziel ist es, innere Klarheit zu gewinnen, neue Perspektiven zu entwickeln und persönliche Ressourcen zu stärken.",
+      "full": "Die Gesprächstherapie bietet einen geschützten Rahmen für persönliche Entwicklung. In einem wertfreien Raum können Sie Ihre Gedanken und Gefühle ausdrücken, innere Klarheit gewinnen und neue Perspektiven entwickeln. Gemeinsam stärken wir Ihre persönlichen Ressourcen.",
+      "benefits": "Geschützter Raum • Wertfreie Atmosphäre • Persönliche Entwicklung • Ressourcenstärkung",
+      "process": "Einzelsitzungen nach Vereinbarung, Dauer etwa 60 Minuten."
+    },
+    "retreat": {
+      "title": "Kuraufenthalte",
+      "short": "In unserer angrenzenden Kurpension genießen Sie einen sorgenfreien Aufenthalt im malerischen Hegau. Die ruhige Umgebung und persönliche Betreuung schaffen optimale Bedingungen für Erholung und Gesundheitsförderung.",
+      "full": "Verbinden Sie Ihre Behandlungen mit einem erholsamen Aufenthalt in unserer Kurpension. Die ruhige Lage im malerischen Hegau, kombiniert mit persönlicher Betreuung, schafft ideale Bedingungen für Ihre Gesundheit und Ihr Wohlbefinden.",
+      "benefits": "Unterkunft vor Ort • Ruhige Umgebung • Persönliche Betreuung • Ganzheitliche Erholung",
+      "process": "Kombinieren Sie Behandlungen mit Übernachtungen in unserer Pension."
+    }
+  },
+  "appointment": {
+    "title": "Termin vereinbaren",
+    "subtitle": "Wir freuen uns auf Ihren Besuch",
+    "form": {
+      "title": "Terminanfrage",
+      "preferredDate": "Wunschtermin",
+      "preferredTime": "Wunschzeit",
+      "service": "Gewünschte Behandlung",
+      "selectService": "Bitte wählen",
+      "additionalInfo": "Zusätzliche Informationen"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "hours": "Sprechzeiten"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Haus Meßmer - Pension & Naturheilpraxis im Hegau",
+    "description": "Willkommen bei Haus Meßmer: Ihre Kurpension und Naturheilpraxis im malerischen Hegau. Erholung, Gesundheit und persönliche Betreuung unter einem Dach."
+  },
+  "pension": {
+    "title": "Pension - Haus Meßmer",
+    "description": "Komfortable Zimmer und Apartments in ruhiger Lage im Hegau. Ideal für Kur- und Erholungsaufenthalte."
+  },
+  "praxis": {
+    "title": "Naturheilpraxis - Haus Meßmer",
+    "description": "Ganzheitliche Naturheilkunde im Hegau: Colon-Hydro-Therapie, Fastenkurse, Bioresonanz, Gesprächstherapie und mehr."
+  },
+  "contact": {
+    "title": "Kontakt - Haus Meßmer",
+    "description": "Kontaktieren Sie uns für Buchungen, Terminvereinbarungen oder Fragen zu unserer Pension und Naturheilpraxis."
+  },
+  "imprint": {
+    "title": "Impressum - Haus Meßmer",
+    "description": "Impressum und rechtliche Angaben von Haus Meßmer - Pension & Naturheilpraxis."
+  },
+  "privacy": {
+    "title": "Datenschutz - Haus Meßmer",
+    "description": "Datenschutzerklärung von Haus Meßmer - Informationen zur Verarbeitung Ihrer Daten."
+  }
+}

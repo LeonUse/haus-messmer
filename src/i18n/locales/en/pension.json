@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "title": "Your Home in Hegau",
+    "subtitle": "Enjoy a carefree stay in one of our rooms in the picturesque Hegau.",
+    "description": "Between volcanic mountains, Lake Constance and the Black Forest, we welcome you on our property, with an adjacent barefoot path and Kneipp pool. Our in-house practice complements your vacation offer with massages and various therapy procedures.",
+    "cta": "Discover Rooms"
+  },
+  "features": {
+    "title": "Your Benefits",
+    "quiet": {
+      "title": "Quiet Location",
+      "description": "Enjoy the peace and beauty of the picturesque Hegau"
+    },
+    "personal": {
+      "title": "Personal Care",
+      "description": "Individual and warm care during your stay"
+    },
+    "connected": {
+      "title": "Natural Healing Practice On-Site",
+      "description": "Direct connection to our natural healing practice for holistic recovery"
+    },
+    "ideal": {
+      "title": "Ideal for Health Retreats",
+      "description": "Optimal conditions for health promotion and recovery"
+    }
+  },
+  "rooms": {
+    "title": "Our Rooms",
+    "subtitle": "Comfortable accommodations for your stay",
+    "room1": {
+      "name": "Single Room 1",
+      "description": "Cozy single room with private bathroom and all amenities for a relaxing stay."
+    },
+    "room2": {
+      "name": "Double Room",
+      "description": "Spacious double room with comfortable beds and modern bathroom."
+    },
+    "room3": {
+      "name": "Single Room 3",
+      "description": "Quiet single room with garden view and private bathroom."
+    },
+    "room4": {
+      "name": "Single Room 4",
+      "description": "Comfortable single room with cozy atmosphere."
+    },
+    "apartment": {
+      "name": "Apartment / Seminar Room",
+      "description": "Spacious apartment with kitchen, living area and space for up to 4 people. Also ideal for seminars and group stays."
+    },
+    "features": {
+      "singleBed": "Single Bed",
+      "doubleBed": "Double Bed",
+      "privateBathroom": "Private Bathroom",
+      "shower": "Shower",
+      "wifi": "WiFi",
+      "spacious": "Spacious",
+      "quiet": "Quiet Location",
+      "cozy": "Cozy",
+      "kitchen": "Kitchen",
+      "livingArea": "Living Area"
+    },
+    "maxGuests": "Max. {{count}} guest",
+    "maxGuests_plural": "Max. {{count}} guests",
+    "viewRoom": "View Room",
+    "bookRoom": "Book Room"
+  },
+  "booking": {
+    "title": "Book Your Stay",
+    "description": "Reserve directly via Booking.com",
+    "checkAvailability": "Check Availability"
+  }
+}

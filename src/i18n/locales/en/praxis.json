@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "title": "Natural Healing Practice Haus Meßmer",
+    "subtitle": "Holistic health and natural healing",
+    "cta": "Discover Treatments"
+  },
+  "intro": {
+    "title": "Welcome to Our Natural Healing Practice",
+    "description": "In our practice, we combine modern diagnostic methods with natural healing procedures. Our goal is to promote your health holistically and provide you with space for recovery. Discover our services and feel free to get individual advice."
+  },
+  "services": {
+    "title": "Our Treatments",
+    "subtitle": "Individual therapies for your health",
+    "colonHydro": {
+      "title": "Colon Hydrotherapy",
+      "short": "Colon hydrotherapy is a form of colon cleansing. The colon is gently flushed with water using a specially developed device. This is done with the aim of cleansing the intestines and supporting intestinal activity.",
+      "full": "Colon hydrotherapy is a gentle method of colon cleansing. Using a specially developed device, the colon is gently flushed with warm water. The aim is to dissolve deposits, stimulate intestinal activity and increase well-being.",
+      "benefits": "Support for intestinal health • Promotion of digestion • Increase in well-being",
+      "process": "The treatment takes place in a relaxed atmosphere and lasts about 45-60 minutes."
+    },
+    "fasting": {
+      "title": "Fasting Courses",
+      "short": "Several times a year we offer 4x4 fasting courses: On 4 joint evenings we provide you with knowledge about fasting. The course is supplemented by freshly pressed juices, soups and accompanying dietary supplements.",
+      "full": "Our 4x4 fasting courses take place several times a year and offer you structured support during fasting. On four joint evenings you will receive well-founded knowledge about fasting methods, nutrition and health. Included are freshly pressed juices, nutritious soups and selected dietary supplements.",
+      "benefits": "Guided fasting • Knowledge transfer • Community experience • High-quality juices and soups",
+      "process": "4 evening sessions with theory and practice, including fasting meals."
+    },
+    "vegaCheck": {
+      "title": "VegaCheck",
+      "short": "VegaCheck is a procedure from complementary medicine. Pain-free stimuli are applied to certain body regions and the body's subsequent reactions are recorded. Users use VegaCheck to obtain indications of energetic regulation disorders.",
+      "full": "VegaCheck is a bioenergetic test procedure from complementary medicine. The body's reactions are measured through pain-free stimuli at certain body points. This can provide indications of energetic imbalances and regulation disorders.",
+      "benefits": "Pain-free examination • Holistic view • Individual analysis",
+      "process": "The measurement takes about 30-45 minutes and is completely pain-free."
+    },
+    "infusion": {
+      "title": "Infusion Therapy",
+      "short": "In infusion therapy, fluids such as electrolytes or nutrients are administered intravenously (via the vein). These applications are individually compiled according to needs.",
+      "full": "Infusion therapy enables the direct supply of vitamins, minerals and other nutrients via the vein. Each infusion is individually tailored to your needs and can have a supportive effect on various complaints.",
+      "benefits": "Individual composition • Direct nutrient supply • Fast effect",
+      "process": "The infusion lasts 30-60 minutes depending on the composition."
+    },
+    "bioresonance": {
+      "title": "Bioresonance",
+      "short": "In bioresonance therapy, the body's own vibrations are to be recorded and regulated with the help of electrodes. This is a form of treatment in complementary medicine that is not recognized by conventional medicine. It is used by practitioners to support self-healing powers.",
+      "full": "Bioresonance therapy works with the body's own vibrations. These are recorded via electrodes and can be therapeutically influenced. The aim is to activate self-healing powers and harmonize energetic processes in the body.",
+      "benefits": "Gentle method • Activation of self-healing • Holistic approach",
+      "process": "A session lasts about 45-60 minutes and is completely pain-free."
+    },
+    "lab": {
+      "title": "Laboratory Diagnostics",
+      "short": "Our natural healing practice works with an external laboratory to have well-founded blood counts and laboratory analyses created.",
+      "full": "For precise diagnostics, we work with a specialized laboratory. We offer comprehensive blood tests and laboratory analyses that form a well-founded basis for further treatment.",
+      "benefits": "Precise diagnostics • Comprehensive analyses • Well-founded treatment basis",
+      "process": "Blood sampling in the practice, evaluation by partner laboratory, detailed discussion of results."
+    },
+    "therapy": {
+      "title": "Talk Therapy",
+      "short": "In talk therapy, we create a protected space together in which your thoughts and feelings are perceived without judgment. The aim is to gain inner clarity, develop new perspectives and strengthen personal resources.",
+      "full": "Talk therapy offers a protected framework for personal development. In a non-judgmental space, you can express your thoughts and feelings, gain inner clarity and develop new perspectives. Together we strengthen your personal resources.",
+      "benefits": "Protected space • Non-judgmental atmosphere • Personal development • Resource strengthening",
+      "process": "Individual sessions by appointment, duration about 60 minutes."
+    },
+    "retreat": {
+      "title": "Health Retreats",
+      "short": "In our adjacent health resort, you can enjoy a carefree stay in the picturesque Hegau. The quiet environment and personal care create optimal conditions for recovery and health promotion.",
+      "full": "Combine your treatments with a relaxing stay in our health resort. The quiet location in the picturesque Hegau, combined with personal care, creates ideal conditions for your health and well-being.",
+      "benefits": "Accommodation on site • Quiet environment • Personal care • Holistic recovery",
+      "process": "Combine treatments with overnight stays in our guesthouse."
+    }
+  },
+  "appointment": {
+    "title": "Make an Appointment",
+    "subtitle": "We look forward to your visit",
+    "form": {
+      "title": "Appointment Request",
+      "preferredDate": "Preferred Date",
+      "preferredTime": "Preferred Time",
+      "service": "Desired Treatment",
+      "selectService": "Please select",
+      "additionalInfo": "Additional Information"
+    },
+    "contact": {
+      "title": "Contact",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Office Hours"
+    }
+  }
+}

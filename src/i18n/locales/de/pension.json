@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "title": "Ihr Zuhause im Hegau",
+    "subtitle": "Genießen Sie in einem unserer Zimmer einen sorgenfreien Aufenthalt im malerischen Hegau.",
+    "description": "Zwischen Vulkanbergen, Bodensee und Schwarzwald empfangen wir Sie auf unserem Grundstück, mit angrenzendem Barfußpfad und Kneippbecken. Unsere hauseigene Praxis ergänzt Ihr Urlaubsangebot dabei mit Massagen und diversen Therapieverfahren.",
+    "cta": "Zimmer entdecken"
+  },
+  "features": {
+    "title": "Ihre Vorteile",
+    "quiet": {
+      "title": "Ruhige Lage",
+      "description": "Genießen Sie die Ruhe und Schönheit des malerischen Hegau"
+    },
+    "personal": {
+      "title": "Persönliche Betreuung",
+      "description": "Individuelle und herzliche Betreuung während Ihres Aufenthalts"
+    },
+    "connected": {
+      "title": "Naturheilpraxis vor Ort",
+      "description": "Direkte Anbindung an unsere Naturheilpraxis für ganzheitliche Erholung"
+    },
+    "ideal": {
+      "title": "Ideal für Kuren",
+      "description": "Optimale Bedingungen für Gesundheitsförderung und Erholung"
+    }
+  },
+  "rooms": {
+    "title": "Unsere Zimmer",
+    "subtitle": "Komfortable Unterkünfte für Ihren Aufenthalt",
+    "room1": {
+      "name": "Einzelzimmer 1",
+      "description": "Gemütliches Einzelzimmer mit privatem Bad und allen Annehmlichkeiten für einen erholsamen Aufenthalt."
+    },
+    "room2": {
+      "name": "Doppelzimmer",
+      "description": "Geräumiges Doppelzimmer mit komfortablen Betten und modernem Badezimmer."
+    },
+    "room3": {
+      "name": "Einzelzimmer 3",
+      "description": "Ruhiges Einzelzimmer mit Blick ins Grüne und eigenem Badezimmer."
+    },
+    "room4": {
+      "name": "Einzelzimmer 4",
+      "description": "Behagliches Einzelzimmer mit gemütlicher Atmosphäre."
+    },
+    "apartment": {
+      "name": "Apartment / Seminarraum",
+      "description": "Großzügiges Apartment mit Küche, Wohnbereich und Platz für bis zu 4 Personen. Ideal auch für Seminare und Gruppenaufenthalte."
+    },
+    "features": {
+      "singleBed": "Einzelbett",
+      "doubleBed": "Doppelbett",
+      "privateBathroom": "Eigenes Bad",
+      "shower": "Dusche",
+      "wifi": "WLAN",
+      "spacious": "Geräumig",
+      "quiet": "Ruhige Lage",
+      "cozy": "Gemütlich",
+      "kitchen": "Küche",
+      "livingArea": "Wohnbereich"
+    },
+    "maxGuests": "Max. {{count}} Gast",
+    "maxGuests_plural": "Max. {{count}} Gäste",
+    "viewRoom": "Zimmer ansehen",
+    "bookRoom": "Zimmer buchen"
+  },
+  "booking": {
+    "title": "Buchen Sie Ihren Aufenthalt",
+    "description": "Reservieren Sie direkt über Booking.com",
+    "checkAvailability": "Verfügbarkeit prüfen"
+  }
+}

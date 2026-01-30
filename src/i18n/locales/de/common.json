@@ -1,0 +1,34 @@
+{
+  "welcome": "Willkommen bei Haus Meßmer",
+  "subtitle": "Pension & Naturheilpraxis",
+  "buttons": {
+    "learnMore": "Mehr erfahren",
+    "bookNow": "Jetzt buchen",
+    "contact": "Kontakt aufnehmen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "submit": "Absenden",
+    "close": "Schließen",
+    "viewDetails": "Details ansehen",
+    "viewAll": "Alle ansehen"
+  },
+  "labels": {
+    "name": "Name",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "message": "Nachricht",
+    "date": "Datum",
+    "guests": "Gäste",
+    "language": "Sprache"
+  },
+  "status": {
+    "loading": "Lädt...",
+    "error": "Ein Fehler ist aufgetreten",
+    "success": "Erfolgreich"
+  },
+  "location": {
+    "address": "Adresse",
+    "openingHours": "Öffnungszeiten",
+    "directions": "Anfahrt"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "contact": {
+    "title": "Contact Form",
+    "success": "Your message has been sent successfully!",
+    "error": "An error occurred while sending. Please try again."
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address",
+    "phone": "Please enter a valid phone number",
+    "minLength": "At least {{count}} characters required",
+    "maxLength": "Maximum {{count}} characters allowed"
+  },
+  "placeholders": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "phone": "+49 123 456789",
+    "message": "Your message to us...",
+    "date": "DD.MM.YYYY",
+    "time": "HH:MM"
+  }
+}

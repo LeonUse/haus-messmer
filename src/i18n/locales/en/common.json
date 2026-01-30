@@ -1,0 +1,34 @@
+{
+  "welcome": "Welcome to Haus Meßmer",
+  "subtitle": "Guesthouse & Natural Healing Practice",
+  "buttons": {
+    "learnMore": "Learn More",
+    "bookNow": "Book Now",
+    "contact": "Contact Us",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "close": "Close",
+    "viewDetails": "View Details",
+    "viewAll": "View All"
+  },
+  "labels": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "date": "Date",
+    "guests": "Guests",
+    "language": "Language"
+  },
+  "status": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Successful"
+  },
+  "location": {
+    "address": "Address",
+    "openingHours": "Opening Hours",
+    "directions": "Directions"
+  }
+}

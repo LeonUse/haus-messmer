@@ -1,0 +1,58 @@
+{
+  "imprint": {
+    "title": "Imprint",
+    "subtitle": "Legal Information",
+    "operator": {
+      "title": "Operator",
+      "name": "Haus Meßmer",
+      "address": "Ludwig-Gerer-Straße 46",
+      "city": "78260 Tengen",
+      "country": "Germany"
+    },
+    "contact": {
+      "title": "Contact",
+      "phone": "Phone",
+      "email": "Email"
+    },
+    "responsible": {
+      "title": "Responsible for Content",
+      "placeholder": "[Please enter the name of the responsible person]"
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "content": {
+        "title": "Liability for Content",
+        "text": "The contents of our pages have been created with the greatest care. However, we cannot guarantee the accuracy, completeness and timeliness of the content."
+      },
+      "links": {
+        "title": "Liability for Links",
+        "text": "Our offer contains links to external websites of third parties, on whose contents we have no influence. Therefore, we cannot assume any liability for these external contents."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "Information on the processing of your data",
+    "intro": {
+      "title": "Data Protection",
+      "text": "The protection of your personal data is of particular concern to us. We therefore process your data exclusively on the basis of legal regulations (GDPR)."
+    },
+    "collection": {
+      "title": "Data Collection",
+      "text": "Most data is collected because you provide it to us. This can be data that you enter in a contact form, for example."
+    },
+    "usage": {
+      "title": "Use of Data",
+      "text": "We use your data exclusively to process your inquiries and to provide our services."
+    },
+    "rights": {
+      "title": "Your Rights",
+      "text": "You have the right to information about your stored data, its origin and recipients as well as the purpose of data processing at any time. You also have the right to correction, blocking or deletion of this data."
+    },
+    "contact": {
+      "title": "Contact for Data Protection Questions",
+      "text": "If you have any questions about data protection, you can contact us at any time."
+    },
+    "placeholder": "[IMPORTANT: This privacy policy is a placeholder. Please have a legally compliant privacy policy created by a lawyer!]"
+  }
+}

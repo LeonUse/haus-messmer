@@ -1,0 +1,30 @@
+{
+  "main": {
+    "home": "Startseite",
+    "pension": "Pension",
+    "praxis": "Naturheilpraxis",
+    "contact": "Kontakt"
+  },
+  "pension": {
+    "overview": "Übersicht",
+    "rooms": "Zimmer",
+    "prices": "Preise",
+    "location": "Lage",
+    "faq": "Häufige Fragen"
+  },
+  "praxis": {
+    "overview": "Übersicht",
+    "services": "Behandlungen",
+    "therapyFocus": "Therapieschwerpunkte",
+    "process": "Ablauf",
+    "appointment": "Termin vereinbaren",
+    "faq": "Häufige Fragen"
+  },
+  "footer": {
+    "about": "Über uns",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "quickLinks": "Schnellzugriff",
+    "contactInfo": "Kontaktinformationen"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "main": {
+    "home": "Home",
+    "pension": "Guest House",
+    "praxis": "Natural Healing",
+    "contact": "Contact"
+  },
+  "pension": {
+    "overview": "Overview",
+    "rooms": "Rooms",
+    "prices": "Prices",
+    "location": "Location",
+    "faq": "FAQ"
+  },
+  "praxis": {
+    "overview": "Overview",
+    "services": "Services",
+    "therapyFocus": "Therapy Focus",
+    "process": "Process",
+    "appointment": "Book Appointment",
+    "faq": "FAQ"
+  },
+  "footer": {
+    "about": "About Us",
+    "imprint": "Imprint",
+    "privacy": "Privacy Policy",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information"
+  }
+}

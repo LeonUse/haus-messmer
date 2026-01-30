@@ -1,0 +1,21 @@
+{
+  "page": {
+    "title": "Kontakt",
+    "subtitle": "Wir freuen uns auf Ihre Nachricht"
+  },
+  "form": {
+    "title": "Kontaktformular",
+    "description": "Senden Sie uns eine Nachricht und wir melden uns schnellstmöglich bei Ihnen."
+  },
+  "info": {
+    "title": "Kontaktinformationen",
+    "address": "Adresse",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "hours": "Öffnungszeiten"
+  },
+  "map": {
+    "title": "Anfahrt",
+    "viewOnMaps": "In Google Maps öffnen"
+  }
+}
